@@ -25,7 +25,7 @@ This Python script generates strong and secure passwords that adhere to specific
 4. Run the script to generate a strong password:
    
    ```bash
-   python generate_password.py
+   python app.py
    ```
 
    The script will prompt you to specify the desired password length and character types.
