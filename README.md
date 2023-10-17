@@ -11,7 +11,7 @@ This Python script generates strong and secure passwords that adhere to specific
 2. Clone the repository to your local machine:
    
    ```bash
-   git clone https://github.com/your-username/secure-password-generator.git
+   git clone https://github.com/your-username/Random-Secured-Password-Generatorr.git
    ```
 
    Replace `your-username` with your actual GitHub username.
